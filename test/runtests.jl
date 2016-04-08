@@ -1,13 +1,9 @@
-
-
 module packageTest
 
 using FactCheck
 
 include("tests.jl")
 
-FactCheck.exitstatus()
-
+#FactCheck.exitstatus()
 
 end
-
